@@ -1,0 +1,7 @@
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\Webapp.exe
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\appsettings.Development.json
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\appsettings.json
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\Webapp.dll
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\Webapp.deps.json
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\Webapp.runtimeconfig.json
+C:\Users\Sudheer\azure\Webapp\bin\Debug\net6.0\publish\Webapp.pdb
